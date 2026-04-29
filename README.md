@@ -65,3 +65,4 @@
 # sanshirou64
 # sanshirou65
 # sanshirou66
+# sanshirou67
